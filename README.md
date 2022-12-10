@@ -40,3 +40,5 @@ $ python add-vector.py
 ```
 
 # Result
+![スクリーンショット_20221210_203435](https://user-images.githubusercontent.com/74339912/206854949-0a6a0dfe-40b7-427f-8024-35c45af910eb.png)
+
