@@ -6,7 +6,8 @@
 en_docvecカラムおよびja_docvecカラムが空になっているので、ここに対応するテキストの文書ベクトルを求めて格納する。
 
 # Requirements
-Python3.10.0
+Python:3.10.0
+
 各自仮想環境を作り、以下を実行する。
 ```bash
 $ pip install -r requirements.txt
@@ -30,9 +31,7 @@ $ pip install -r requirements.txt
 │   │   ├── dbManager.cpython-310.pyc
 │   │   └── manage_dataset.cpython-310.pyc
 │   └── dbManager.py
-├── requirements.txt
-└── test
-    └── test.ipynb
+└── requirements.txt
 ```
 
 add-vector.pyを実行する
